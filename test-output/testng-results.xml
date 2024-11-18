@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-18T17:31:28 IST" name="Default suite" finished-at="2024-11-18T17:33:55 IST" duration-ms="146584">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-11-18T17:31:28 IST" name="Default test" finished-at="2024-11-18T17:33:55 IST" duration-ms="146584">
+      <class name="com.nagarro.cucumber_assignment.testRunner.RunCucumberTest">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:31:28 IST" name="setUpClass" finished-at="2024-11-18T17:31:29 IST" duration-ms="613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3534651a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:31:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-18T17:31:44 IST" duration-ms="15220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Home Page Title"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Home Page Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:31:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-18T17:31:58 IST" duration-ms="14247" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Hamburger Menu Visibility"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Home Page Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:31:58 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-18T17:32:14 IST" duration-ms="15426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Navigation to Customer Service Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Home Page Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:32:14 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-18T17:32:33 IST" duration-ms="19490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login with valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Amazon Login Page Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:32:33 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-18T17:32:49 IST" duration-ms="16388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Blank Email and Get Error Message"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Amazon Login Page Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:32:49 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-18T17:33:12 IST" duration-ms="22603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Blank Passwor and Get Error Message"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Amazon Login Page Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:33:12 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-18T17:33:29 IST" duration-ms="17284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search an Item through Search Box and Navigate to the Search Results Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Page Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:33:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-18T17:33:54 IST" duration-ms="25070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search an item and add it to the cart"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Page Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.nagarro.cucumber_assignment.testRunner.RunCucumberTest@45d84a20]" started-at="2024-11-18T17:33:54 IST" name="tearDownClass" finished-at="2024-11-18T17:33:55 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.nagarro.cucumber_assignment.testRunner.RunCucumberTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

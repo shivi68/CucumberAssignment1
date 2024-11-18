@@ -1,0 +1,878 @@
+2024-11-13 19:31:58 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:31:58 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:32:03 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:07 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:07 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:07 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:07 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:07 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:07 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:07 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:07 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:07 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:07 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:07 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:09 [main] INFO  BasePage - Getting home page title.
+2024-11-13 19:32:10 [main] INFO  WebDriverFactory - Page title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2024-11-13 19:32:10 [main] INFO  BasePage - Getting home page title.
+2024-11-13 19:32:10 [main] INFO  WebDriverFactory - Verifying page title: Expected = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in, Actual = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2024-11-13 19:32:10 [main] INFO  BasePage - Getting home page title.
+2024-11-13 19:32:12 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-13 19:32:12 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:12 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:32:15 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:17 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:17 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:17 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:17 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:17 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:17 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:17 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:20 [main] INFO  WebDriverFactory - Opening the hamburger menu.
+2024-11-13 19:32:20 [main] INFO  BasePage - Opening hamburger menu.
+2024-11-13 19:32:21 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (5883f37dd3f7632c7c3173d13f265e11)] -> id: nav-hamburger-menu]
+2024-11-13 19:32:21 [main] INFO  BasePage - Checking if hamburger menu is visible.
+2024-11-13 19:32:21 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (5883f37dd3f7632c7c3173d13f265e11)] -> id: nav-hamburger-menu]
+2024-11-13 19:32:21 [main] INFO  WebDriverFactory - Hamburger menu visibility: true
+2024-11-13 19:32:22 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-13 19:32:22 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:22 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:32:25 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:28 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:28 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:28 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:28 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:28 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:28 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:28 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:28 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:28 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:28 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:28 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:29 [main] INFO  WebDriverFactory - Clicking on the customer service link.
+2024-11-13 19:32:29 [main] INFO  BasePage - Navigating to Customer Service page.
+2024-11-13 19:32:32 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (9745b882e4f593d92bef3d010310cb01)] -> xpath: //a[text() = 'Customer Service']]
+2024-11-13 19:32:32 [main] INFO  BasePage - Checking if Customer Service page is displayed.
+2024-11-13 19:32:32 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9745b882e4f593d92bef3d010310cb01)] -> xpath: //h1[contains(text(), 'Hello. What can we help you with?')]]
+2024-11-13 19:32:32 [main] INFO  BasePage - Customer Service page is displayed successfully.
+2024-11-13 19:32:32 [main] INFO  BasePage - Checking if Customer Service page is displayed.
+2024-11-13 19:32:32 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9745b882e4f593d92bef3d010310cb01)] -> xpath: //h1[contains(text(), 'Hello. What can we help you with?')]]
+2024-11-13 19:32:33 [main] INFO  WebDriverFactory - Customer Service Page displayed: true
+2024-11-13 19:32:33 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-13 19:32:33 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:33 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:32:35 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:38 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:38 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:38 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:38 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:38 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:38 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:38 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:40 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-13 19:32:40 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fd4a9c91813bc83059cc6eeb757e1cb9)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-13 19:32:41 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-13 19:32:41 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-13 19:32:41 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fd4a9c91813bc83059cc6eeb757e1cb9)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-13 19:32:43 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-13 19:32:43 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fd4a9c91813bc83059cc6eeb757e1cb9)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-13 19:32:43 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-13 19:32:43 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-13 19:32:43 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fd4a9c91813bc83059cc6eeb757e1cb9)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-13 19:32:43 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-13 19:32:43 [main] INFO  WebDriverFactory - Entering email: shivangiguptadln@gmail.com
+2024-11-13 19:32:43 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fd4a9c91813bc83059cc6eeb757e1cb9)] -> xpath: //input[@id='ap_email']]
+2024-11-13 19:32:43 [main] INFO  BasePage - Entered email: shivangiguptadln@gmail.com
+2024-11-13 19:32:43 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-13 19:32:44 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2024-11-13 19:32:44 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-13 19:32:44 [main] INFO  WebDriverFactory - Entering password.
+2024-11-13 19:32:44 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fd4a9c91813bc83059cc6eeb757e1cb9)] -> xpath: //input[@id='ap_password']]
+2024-11-13 19:32:45 [main] INFO  BasePage - Entered password.
+2024-11-13 19:32:45 [main] INFO  WebDriverFactory - Clicking the Amazon Sign-In button.
+2024-11-13 19:32:48 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: signInSubmit'
+2024-11-13 19:32:48 [main] INFO  BasePage - Clicked 'Amazon Sign-In' button.
+2024-11-13 19:32:53 [main] INFO  WebDriverFactory - Verifying user login status.
+2024-11-13 19:32:53 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fd4a9c91813bc83059cc6eeb757e1cb9)] -> xpath: //i[@class='a-icon a-icon-logo']]
+2024-11-13 19:32:54 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-13 19:32:54 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:54 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:32:55 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:32:58 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:58 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:58 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:58 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:58 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:58 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:58 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:58 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:32:58 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:32:58 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:32:58 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:33:00 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-13 19:33:00 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (267b3d9da6e7f06adc3af5ffc70d86d8)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-13 19:33:00 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-13 19:33:00 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-13 19:33:00 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (267b3d9da6e7f06adc3af5ffc70d86d8)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-13 19:33:02 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-13 19:33:02 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (267b3d9da6e7f06adc3af5ffc70d86d8)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-13 19:33:02 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-13 19:33:02 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-13 19:33:02 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (267b3d9da6e7f06adc3af5ffc70d86d8)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-13 19:33:02 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-13 19:33:02 [main] INFO  WebDriverFactory - Entering email: shivangiguptadln@gmail.com
+2024-11-13 19:33:02 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (267b3d9da6e7f06adc3af5ffc70d86d8)] -> xpath: //input[@id='ap_email']]
+2024-11-13 19:33:03 [main] INFO  BasePage - Entered email: shivangiguptadln@gmail.com
+2024-11-13 19:33:03 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-13 19:33:04 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2024-11-13 19:33:04 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-13 19:33:04 [main] INFO  WebDriverFactory - Entering password.
+2024-11-13 19:33:04 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (267b3d9da6e7f06adc3af5ffc70d86d8)] -> xpath: //input[@id='ap_password']]
+2024-11-13 19:33:04 [main] INFO  BasePage - Entered password.
+2024-11-13 19:33:04 [main] INFO  WebDriverFactory - Clicking the Amazon Sign-In button.
+2024-11-13 19:33:08 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: signInSubmit'
+2024-11-13 19:33:08 [main] INFO  BasePage - Clicked 'Amazon Sign-In' button.
+2024-11-13 19:33:13 [main] INFO  WebDriverFactory - Verifying if error message is displayed in the alert box.
+2024-11-13 19:33:21 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (267b3d9da6e7f06adc3af5ffc70d86d8)] -> xpath: //span[@class='a-list-item']]
+2024-11-13 19:33:23 [main] INFO  BasePage - Alert box displayed: true
+2024-11-13 19:33:26 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-13 19:33:26 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:26 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:33:27 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:33:30 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:30 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:30 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:33:30 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:33:30 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:30 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:33:30 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:33:30 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:30 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:33:30 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:33:30 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:33:32 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-13 19:33:32 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (c8c0ab0204c5e68d90bec185c8e57cce)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-13 19:33:33 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-13 19:33:33 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-13 19:33:33 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (c8c0ab0204c5e68d90bec185c8e57cce)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-13 19:33:34 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-13 19:33:34 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (c8c0ab0204c5e68d90bec185c8e57cce)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-13 19:33:34 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-13 19:33:34 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-13 19:33:34 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (c8c0ab0204c5e68d90bec185c8e57cce)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-13 19:33:34 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-13 19:33:34 [main] INFO  WebDriverFactory - Entering email: 
+2024-11-13 19:33:34 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (c8c0ab0204c5e68d90bec185c8e57cce)] -> xpath: //input[@id='ap_email']]
+2024-11-13 19:33:35 [main] INFO  BasePage - Entered email: 
+2024-11-13 19:33:35 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-13 19:33:35 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (c8c0ab0204c5e68d90bec185c8e57cce)] -> xpath: //input[@id='continue']]
+2024-11-13 19:33:35 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-13 19:33:35 [main] INFO  WebDriverFactory - Verifying if email required error message is displayed.
+2024-11-13 19:33:35 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (c8c0ab0204c5e68d90bec185c8e57cce)] -> xpath: //div[contains(text(),'Enter your email or mobile phone number')]]
+2024-11-13 19:33:37 [main] INFO  BasePage - Email required message displayed: true
+2024-11-13 19:33:38 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-13 19:33:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:38 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:33:40 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:33:42 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:42 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:42 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:33:42 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:33:42 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:42 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:33:42 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:33:42 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:42 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:33:42 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:33:42 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:33:44 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-13 19:33:45 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (ee7067f95125cef1f642b239ebf66bf1)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-13 19:33:45 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-13 19:33:45 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-13 19:33:45 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (ee7067f95125cef1f642b239ebf66bf1)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-13 19:33:46 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-13 19:33:46 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (ee7067f95125cef1f642b239ebf66bf1)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-13 19:33:46 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-13 19:33:46 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-13 19:33:46 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (ee7067f95125cef1f642b239ebf66bf1)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-13 19:33:47 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-13 19:33:47 [main] INFO  WebDriverFactory - Entering email: shivangiguptadln@gmail.com
+2024-11-13 19:33:47 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (ee7067f95125cef1f642b239ebf66bf1)] -> xpath: //input[@id='ap_email']]
+2024-11-13 19:33:47 [main] INFO  BasePage - Entered email: shivangiguptadln@gmail.com
+2024-11-13 19:33:47 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-13 19:33:48 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2024-11-13 19:33:48 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-13 19:33:48 [main] INFO  WebDriverFactory - Entering password.
+2024-11-13 19:33:48 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (ee7067f95125cef1f642b239ebf66bf1)] -> xpath: //input[@id='ap_password']]
+2024-11-13 19:33:49 [main] INFO  BasePage - Entered password.
+2024-11-13 19:33:49 [main] INFO  WebDriverFactory - Clicking the Amazon Sign-In button.
+2024-11-13 19:33:49 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (ee7067f95125cef1f642b239ebf66bf1)] -> id: signInSubmit]
+2024-11-13 19:33:49 [main] INFO  BasePage - Clicked 'Amazon Sign-In' button.
+2024-11-13 19:33:54 [main] INFO  WebDriverFactory - Verifying if password required error message is displayed.
+2024-11-13 19:33:54 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (ee7067f95125cef1f642b239ebf66bf1)] -> xpath: //div[contains(text(),'Enter your password')]]
+2024-11-13 19:33:56 [main] INFO  BasePage - Password required message displayed: true
+2024-11-13 19:33:57 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-13 19:33:57 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:33:57 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:33:59 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:34:01 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:01 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:01 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:34:01 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:34:01 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:01 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:34:01 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:34:02 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:02 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:34:02 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:34:02 [main] INFO  WebDriverFactory - Navigating to the home page.
+2024-11-13 19:34:03 [main] INFO  WebDriverFactory - Searching for the item: laptop
+2024-11-13 19:34:04 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1d5dfe7e9a1bfa84bf999c2f91642473)] -> xpath: //input[@id='twotabsearchtextbox']]
+2024-11-13 19:34:08 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1d5dfe7e9a1bfa84bf999c2f91642473)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-13 19:34:08 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-13 19:34:08 [main] INFO  WebDriverFactory - Clicking the search button.
+2024-11-13 19:34:10 [main] INFO  WebDriverFactory - Verifying if search results page is displayed.
+2024-11-13 19:34:10 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1d5dfe7e9a1bfa84bf999c2f91642473)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-13 19:34:10 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-13 19:34:11 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-13 19:34:11 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:11 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-13 19:34:13 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:34:16 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:16 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:16 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:34:16 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:34:16 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:16 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:34:16 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:34:16 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-13 19:34:16 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-13 19:34:16 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-13 19:34:16 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-13 19:34:17 [main] INFO  WebDriverFactory - Searching for the item: laptop
+2024-11-13 19:34:18 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fbf4d1d5e162770360adab57361ce06b)] -> xpath: //input[@id='twotabsearchtextbox']]
+2024-11-13 19:34:21 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fbf4d1d5e162770360adab57361ce06b)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-13 19:34:21 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-13 19:34:21 [main] INFO  WebDriverFactory - Clicking the search button.
+2024-11-13 19:34:23 [main] INFO  WebDriverFactory - Clicking the Add to Cart button for the item.
+2024-11-13 19:34:23 [main] INFO  BasePage - Attempting to add item to cart.
+2024-11-13 19:34:24 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (fbf4d1d5e162770360adab57361ce06b)] -> id: a-autoid-1-announce]
+2024-11-13 19:34:26 [main] INFO  BasePage - Item added to cart.
+2024-11-13 19:34:26 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fbf4d1d5e162770360adab57361ce06b)] -> xpath: //div[@class='a-changeover-inner']/strong[contains(text(), 'Item Added')]]
+2024-11-13 19:34:26 [main] INFO  BasePage - Item successfully added to cart.
+2024-11-13 19:34:26 [main] INFO  WebDriverFactory - Verifying pop-up message for item added.
+2024-11-13 19:34:26 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fbf4d1d5e162770360adab57361ce06b)] -> xpath: //div[@class='a-changeover-inner']/strong[contains(text(), 'Item Added')]]
+2024-11-13 19:34:26 [main] INFO  BasePage - Item successfully added to cart.
+2024-11-13 19:34:26 [main] INFO  WebDriverFactory - Verifying if user is navigated to the cart page.
+2024-11-13 19:34:28 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (fbf4d1d5e162770360adab57361ce06b)] -> xpath: //a[@id='nav-cart']]
+2024-11-13 19:34:28 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fbf4d1d5e162770360adab57361ce06b)] -> xpath: //h2[@class='a-size-extra-large a-text-normal']]
+2024-11-13 19:34:28 [main] INFO  BasePage - Navigated to Cart page successfully.
+2024-11-13 19:34:28 [main] INFO  WebDriverFactory - Verifying if the item <itemName> is displayed in the cart.
+2024-11-13 19:34:28 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (fbf4d1d5e162770360adab57361ce06b)] -> xpath: //span[@class='a-truncate-cut']]
+2024-11-13 19:34:28 [main] INFO  BasePage - The item '<itemName>' is present in the cart.
+2024-11-13 19:34:29 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:55:24 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:24 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:55:31 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:55:35 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:35 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:35 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:35 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:35 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:35 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:35 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:35 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:35 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:35 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:35 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:55:37 [main] INFO  BasePage - Getting home page title.
+2024-11-18 11:55:37 [main] INFO  WebDriverFactory - Page title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2024-11-18 11:55:37 [main] INFO  BasePage - Getting home page title.
+2024-11-18 11:55:38 [main] INFO  WebDriverFactory - Verifying page title: Expected = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in, Actual = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2024-11-18 11:55:38 [main] INFO  BasePage - Getting home page title.
+2024-11-18 11:55:39 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:55:39 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:39 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:55:41 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:55:43 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:43 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:43 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:43 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:43 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:43 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:43 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:43 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:43 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:43 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:43 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:55:45 [main] INFO  WebDriverFactory - Opening the hamburger menu.
+2024-11-18 11:55:45 [main] INFO  BasePage - Opening hamburger menu.
+2024-11-18 11:55:46 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (b358c7a98c5f81201c213b102b05c292)] -> id: nav-hamburger-menu]
+2024-11-18 11:55:46 [main] INFO  BasePage - Checking if hamburger menu is visible.
+2024-11-18 11:55:46 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (b358c7a98c5f81201c213b102b05c292)] -> id: nav-hamburger-menu]
+2024-11-18 11:55:46 [main] INFO  WebDriverFactory - Hamburger menu visibility: true
+2024-11-18 11:55:47 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:55:47 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:47 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:55:49 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:55:52 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:52 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:52 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:52 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:52 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:52 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:52 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:52 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:52 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:55:52 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:55:52 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:55:53 [main] INFO  WebDriverFactory - Clicking on the customer service link.
+2024-11-18 11:55:53 [main] INFO  BasePage - Navigating to Customer Service page.
+2024-11-18 11:55:57 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (0e74a8c7e3f05787eae4cd78b572f1a0)] -> xpath: //a[text() = 'Customer Service']]
+2024-11-18 11:55:57 [main] INFO  BasePage - Checking if Customer Service page is displayed.
+2024-11-18 11:55:57 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (0e74a8c7e3f05787eae4cd78b572f1a0)] -> xpath: //h1[contains(text(), 'Hello. What can we help you with?')]]
+2024-11-18 11:55:57 [main] INFO  BasePage - Customer Service page is displayed successfully.
+2024-11-18 11:55:57 [main] INFO  BasePage - Checking if Customer Service page is displayed.
+2024-11-18 11:55:57 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (0e74a8c7e3f05787eae4cd78b572f1a0)] -> xpath: //h1[contains(text(), 'Hello. What can we help you with?')]]
+2024-11-18 11:55:57 [main] INFO  WebDriverFactory - Customer Service Page displayed: true
+2024-11-18 11:55:58 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:55:58 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:55:58 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:55:59 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:56:02 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:02 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:02 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:02 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:02 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:02 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:02 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:02 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:02 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:02 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:02 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:56:03 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-18 11:56:04 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (735e1f490e1863a035c728a6b9ac7f0b)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-18 11:56:04 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-18 11:56:04 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-18 11:56:05 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (735e1f490e1863a035c728a6b9ac7f0b)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-18 11:56:07 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-18 11:56:07 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (735e1f490e1863a035c728a6b9ac7f0b)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 11:56:07 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 11:56:07 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-18 11:56:08 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (735e1f490e1863a035c728a6b9ac7f0b)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 11:56:08 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 11:56:08 [main] INFO  WebDriverFactory - Entering email: shivangiguptadln@gmail.com
+2024-11-18 11:56:08 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (735e1f490e1863a035c728a6b9ac7f0b)] -> xpath: //input[@id='ap_email']]
+2024-11-18 11:56:08 [main] INFO  BasePage - Entered email: shivangiguptadln@gmail.com
+2024-11-18 11:56:08 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-18 11:56:09 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2024-11-18 11:56:09 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-18 11:56:09 [main] INFO  WebDriverFactory - Entering password.
+2024-11-18 11:56:09 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (735e1f490e1863a035c728a6b9ac7f0b)] -> xpath: //input[@id='ap_password']]
+2024-11-18 11:56:09 [main] INFO  BasePage - Entered password.
+2024-11-18 11:56:09 [main] INFO  WebDriverFactory - Clicking the Amazon Sign-In button.
+2024-11-18 11:56:11 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: signInSubmit'
+2024-11-18 11:56:11 [main] INFO  BasePage - Clicked 'Amazon Sign-In' button.
+2024-11-18 11:56:16 [main] INFO  WebDriverFactory - Verifying user login status.
+2024-11-18 11:56:16 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (735e1f490e1863a035c728a6b9ac7f0b)] -> xpath: //i[@class='a-icon a-icon-logo']]
+2024-11-18 11:56:17 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:56:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:17 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:56:19 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:56:22 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:22 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:22 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:22 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:22 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:22 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:22 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:22 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:22 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:22 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:22 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:56:23 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-18 11:56:24 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (a2f3b31b98f7e586b6f5ffdd99ebca61)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-18 11:56:24 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-18 11:56:24 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-18 11:56:24 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (a2f3b31b98f7e586b6f5ffdd99ebca61)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-18 11:56:25 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-18 11:56:26 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (a2f3b31b98f7e586b6f5ffdd99ebca61)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 11:56:26 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 11:56:26 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-18 11:56:26 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (a2f3b31b98f7e586b6f5ffdd99ebca61)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 11:56:26 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 11:56:26 [main] INFO  WebDriverFactory - Entering email: shivangiguptadln@gmail.com
+2024-11-18 11:56:26 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (a2f3b31b98f7e586b6f5ffdd99ebca61)] -> xpath: //input[@id='ap_email']]
+2024-11-18 11:56:26 [main] INFO  BasePage - Entered email: shivangiguptadln@gmail.com
+2024-11-18 11:56:26 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-18 11:56:27 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2024-11-18 11:56:27 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-18 11:56:27 [main] INFO  WebDriverFactory - Entering password.
+2024-11-18 11:56:27 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (a2f3b31b98f7e586b6f5ffdd99ebca61)] -> xpath: //input[@id='ap_password']]
+2024-11-18 11:56:28 [main] INFO  BasePage - Entered password.
+2024-11-18 11:56:28 [main] INFO  WebDriverFactory - Clicking the Amazon Sign-In button.
+2024-11-18 11:56:31 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: signInSubmit'
+2024-11-18 11:56:31 [main] INFO  BasePage - Clicked 'Amazon Sign-In' button.
+2024-11-18 11:56:36 [main] INFO  WebDriverFactory - Verifying if error message is displayed in the alert box.
+2024-11-18 11:56:39 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (a2f3b31b98f7e586b6f5ffdd99ebca61)] -> xpath: //span[@class='a-list-item']]
+2024-11-18 11:56:41 [main] INFO  BasePage - Alert box displayed: true
+2024-11-18 11:56:41 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:56:41 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:41 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:56:43 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:56:46 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:46 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:46 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:46 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:46 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:46 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:46 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:46 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:46 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:46 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:46 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:56:47 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-18 11:56:48 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9c1e2b33ed4469412c8a3ef1144e62d7)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-18 11:56:48 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-18 11:56:48 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-18 11:56:48 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9c1e2b33ed4469412c8a3ef1144e62d7)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-18 11:56:49 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-18 11:56:49 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9c1e2b33ed4469412c8a3ef1144e62d7)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 11:56:49 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 11:56:49 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-18 11:56:50 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9c1e2b33ed4469412c8a3ef1144e62d7)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 11:56:50 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 11:56:50 [main] INFO  WebDriverFactory - Entering email: 
+2024-11-18 11:56:50 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9c1e2b33ed4469412c8a3ef1144e62d7)] -> xpath: //input[@id='ap_email']]
+2024-11-18 11:56:50 [main] INFO  BasePage - Entered email: 
+2024-11-18 11:56:50 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-18 11:56:50 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (9c1e2b33ed4469412c8a3ef1144e62d7)] -> xpath: //input[@id='continue']]
+2024-11-18 11:56:50 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-18 11:56:50 [main] INFO  WebDriverFactory - Verifying if email required error message is displayed.
+2024-11-18 11:56:50 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9c1e2b33ed4469412c8a3ef1144e62d7)] -> xpath: //div[contains(text(),'Enter your email or mobile phone number')]]
+2024-11-18 11:56:52 [main] INFO  BasePage - Email required message displayed: true
+2024-11-18 11:56:53 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:56:53 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:53 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:56:54 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:56:55 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:55 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:55 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:55 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:55 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:55 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:55 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:55 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:56:55 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:56:55 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:56:55 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:56:59 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-18 11:56:59 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (f0af710ebfc086b33574c21ba3a2bad3)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-18 11:56:59 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-18 11:56:59 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-18 11:56:59 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (f0af710ebfc086b33574c21ba3a2bad3)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-18 11:57:00 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-18 11:57:00 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (f0af710ebfc086b33574c21ba3a2bad3)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 11:57:00 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 11:57:00 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-18 11:57:00 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (f0af710ebfc086b33574c21ba3a2bad3)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 11:57:00 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 11:57:00 [main] INFO  WebDriverFactory - Entering email: shivangiguptadln@gmail.com
+2024-11-18 11:57:00 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (f0af710ebfc086b33574c21ba3a2bad3)] -> xpath: //input[@id='ap_email']]
+2024-11-18 11:57:01 [main] INFO  BasePage - Entered email: shivangiguptadln@gmail.com
+2024-11-18 11:57:01 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-18 11:57:02 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2024-11-18 11:57:02 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-18 11:57:02 [main] INFO  WebDriverFactory - Entering password.
+2024-11-18 11:57:02 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (f0af710ebfc086b33574c21ba3a2bad3)] -> xpath: //input[@id='ap_password']]
+2024-11-18 11:57:02 [main] INFO  BasePage - Entered password.
+2024-11-18 11:57:02 [main] INFO  WebDriverFactory - Clicking the Amazon Sign-In button.
+2024-11-18 11:57:02 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (f0af710ebfc086b33574c21ba3a2bad3)] -> id: signInSubmit]
+2024-11-18 11:57:02 [main] INFO  BasePage - Clicked 'Amazon Sign-In' button.
+2024-11-18 11:57:07 [main] INFO  WebDriverFactory - Verifying if password required error message is displayed.
+2024-11-18 11:57:07 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (f0af710ebfc086b33574c21ba3a2bad3)] -> xpath: //div[contains(text(),'Enter your password')]]
+2024-11-18 11:57:09 [main] INFO  BasePage - Password required message displayed: true
+2024-11-18 11:57:10 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:57:10 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:10 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:57:11 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:57:14 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:14 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:14 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:57:14 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:57:14 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:14 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:57:14 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:57:14 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:14 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:57:14 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:57:14 [main] INFO  WebDriverFactory - Navigating to the home page.
+2024-11-18 11:57:15 [main] INFO  WebDriverFactory - Searching for the item: laptop
+2024-11-18 11:57:15 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (6aef808ad7c15e8f99646cd48d66a604)] -> xpath: //input[@id='twotabsearchtextbox']]
+2024-11-18 11:57:18 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (6aef808ad7c15e8f99646cd48d66a604)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-18 11:57:18 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-18 11:57:18 [main] INFO  WebDriverFactory - Clicking the search button.
+2024-11-18 11:57:19 [main] INFO  WebDriverFactory - Verifying if search results page is displayed.
+2024-11-18 11:57:20 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (6aef808ad7c15e8f99646cd48d66a604)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-18 11:57:20 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-18 11:57:20 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 11:57:20 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:20 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 11:57:22 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:57:25 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:25 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:25 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:57:25 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:57:25 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:25 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:57:25 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:57:25 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 11:57:25 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 11:57:25 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 11:57:25 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 11:57:27 [main] INFO  WebDriverFactory - Searching for the item: laptop
+2024-11-18 11:57:27 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (b4a6fe64af1ee5b1d64f99736b472b87)] -> xpath: //input[@id='twotabsearchtextbox']]
+2024-11-18 11:57:31 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (b4a6fe64af1ee5b1d64f99736b472b87)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-18 11:57:31 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-18 11:57:31 [main] INFO  WebDriverFactory - Clicking the search button.
+2024-11-18 11:57:35 [main] INFO  WebDriverFactory - Clicking the Add to Cart button for the item.
+2024-11-18 11:57:35 [main] INFO  BasePage - Attempting to add item to cart.
+2024-11-18 11:57:36 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (b4a6fe64af1ee5b1d64f99736b472b87)] -> id: a-autoid-1-announce]
+2024-11-18 11:57:38 [main] INFO  BasePage - Item added to cart.
+2024-11-18 11:57:38 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (b4a6fe64af1ee5b1d64f99736b472b87)] -> xpath: //div[@class='a-changeover-inner']/strong[contains(text(), 'Item Added')]]
+2024-11-18 11:57:38 [main] INFO  BasePage - Item successfully added to cart.
+2024-11-18 11:57:38 [main] INFO  WebDriverFactory - Verifying pop-up message for item added.
+2024-11-18 11:57:38 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (b4a6fe64af1ee5b1d64f99736b472b87)] -> xpath: //div[@class='a-changeover-inner']/strong[contains(text(), 'Item Added')]]
+2024-11-18 11:57:38 [main] INFO  BasePage - Item successfully added to cart.
+2024-11-18 11:57:38 [main] INFO  WebDriverFactory - Verifying if user is navigated to the cart page.
+2024-11-18 11:57:39 [main] ERROR BasePage - Failed to click on element: [[ChromeDriver: chrome on windows (b4a6fe64af1ee5b1d64f99736b472b87)] -> xpath: //a[@id='nav-cart']]
+org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/gp/cart/view.html?ref_=nav_cart" aria-label="1 item in cart" class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">...</a> is not clickable at point (1080, 25). Other element would receive the click: <div class="a-changeover-inner">...</div>
+  (Session info: chrome=130.0.6723.117)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b4a6fe64af1ee5b1d64f99736b472b87, clickElement {id=f.3266062242C73F8345FBC2B36BBDDFEB.d.6C541959E4B08AC252B3DBB872D933BA.e.908}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\SHIVAN~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54516}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54516/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b4a6fe64af1ee5b1d64f99736b472b87)] -> xpath: //a[@id='nav-cart']]
+Session ID: b4a6fe64af1ee5b1d64f99736b472b87
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.25.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.25.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.25.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.25.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.25.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.25.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.25.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.25.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.25.0.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor64.invoke(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.25.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy44.click(Unknown Source) ~[?:?]
+	at com.nagarro.cucumber_assignment.pages.BasePage.clickElement(BasePage.java:49) ~[test-classes/:?]
+	at com.nagarro.cucumber_assignment.pages.SearchPage.isCartPageDisplayed(SearchPage.java:100) ~[test-classes/:?]
+	at com.nagarro.cucumber_assignment.stepDefinitions.SearchSteps.thenUserShouldBeNavigatedToCartPage(SearchSteps.java:77) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.1.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.1.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.1.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.1.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.1.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.1.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.1.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.1.jar:7.10.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.1.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.1.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.1.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.1.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.1.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.1.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.1.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.1.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.1.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.1.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.1.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.1.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2024-11-18 11:57:40 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 17:31:29 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:29 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 17:31:32 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:31:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:38 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:31:38 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:31:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:38 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:31:38 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:31:38 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:38 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:31:38 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:31:38 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:31:40 [main] INFO  BasePage - Getting home page title.
+2024-11-18 17:31:41 [main] INFO  WebDriverFactory - Page title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2024-11-18 17:31:41 [main] INFO  BasePage - Getting home page title.
+2024-11-18 17:31:42 [main] INFO  WebDriverFactory - Verifying page title: Expected = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in, Actual = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2024-11-18 17:31:42 [main] INFO  BasePage - Getting home page title.
+2024-11-18 17:31:44 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 17:31:44 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:44 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 17:31:47 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:31:51 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:51 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:51 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:31:51 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:31:51 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:51 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:31:51 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:31:51 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:51 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:31:51 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:31:51 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:31:54 [main] INFO  WebDriverFactory - Opening the hamburger menu.
+2024-11-18 17:31:54 [main] INFO  BasePage - Opening hamburger menu.
+2024-11-18 17:31:57 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (632d40d993f44d5b369e814ea441f8ef)] -> id: nav-hamburger-menu]
+2024-11-18 17:31:57 [main] INFO  BasePage - Checking if hamburger menu is visible.
+2024-11-18 17:31:57 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (632d40d993f44d5b369e814ea441f8ef)] -> id: nav-hamburger-menu]
+2024-11-18 17:31:57 [main] INFO  WebDriverFactory - Hamburger menu visibility: true
+2024-11-18 17:31:58 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 17:31:58 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:31:58 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 17:32:01 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:32:04 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:04 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:04 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:04 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:04 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:04 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:04 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:04 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:04 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:04 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:04 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:32:09 [main] INFO  WebDriverFactory - Clicking on the customer service link.
+2024-11-18 17:32:09 [main] INFO  BasePage - Navigating to Customer Service page.
+2024-11-18 17:32:12 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (69c9e08cd14d7676b137fd51be3a9977)] -> xpath: //a[text() = 'Customer Service']]
+2024-11-18 17:32:12 [main] INFO  BasePage - Checking if Customer Service page is displayed.
+2024-11-18 17:32:12 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (69c9e08cd14d7676b137fd51be3a9977)] -> xpath: //h1[contains(text(), 'Hello. What can we help you with?')]]
+2024-11-18 17:32:13 [main] INFO  BasePage - Customer Service page is displayed successfully.
+2024-11-18 17:32:13 [main] INFO  BasePage - Checking if Customer Service page is displayed.
+2024-11-18 17:32:13 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (69c9e08cd14d7676b137fd51be3a9977)] -> xpath: //h1[contains(text(), 'Hello. What can we help you with?')]]
+2024-11-18 17:32:13 [main] INFO  WebDriverFactory - Customer Service Page displayed: true
+2024-11-18 17:32:14 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 17:32:14 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:14 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 17:32:16 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:32:19 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:19 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:19 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:19 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:19 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:19 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:19 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:19 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:19 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:19 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:19 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:32:20 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-18 17:32:21 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (203be207634956c751a72d1853de4e28)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-18 17:32:21 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-18 17:32:21 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-18 17:32:21 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (203be207634956c751a72d1853de4e28)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-18 17:32:23 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-18 17:32:23 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (203be207634956c751a72d1853de4e28)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 17:32:23 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 17:32:23 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-18 17:32:23 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (203be207634956c751a72d1853de4e28)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 17:32:23 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 17:32:23 [main] INFO  WebDriverFactory - Entering email: shivangiguptadln@gmail.com
+2024-11-18 17:32:23 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (203be207634956c751a72d1853de4e28)] -> xpath: //input[@id='ap_email']]
+2024-11-18 17:32:24 [main] INFO  BasePage - Entered email: shivangiguptadln@gmail.com
+2024-11-18 17:32:24 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-18 17:32:25 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2024-11-18 17:32:25 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-18 17:32:25 [main] INFO  WebDriverFactory - Entering password.
+2024-11-18 17:32:25 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (203be207634956c751a72d1853de4e28)] -> xpath: //input[@id='ap_password']]
+2024-11-18 17:32:25 [main] INFO  BasePage - Entered password.
+2024-11-18 17:32:25 [main] INFO  WebDriverFactory - Clicking the Amazon Sign-In button.
+2024-11-18 17:32:27 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: signInSubmit'
+2024-11-18 17:32:27 [main] INFO  BasePage - Clicked 'Amazon Sign-In' button.
+2024-11-18 17:32:32 [main] INFO  WebDriverFactory - Verifying user login status.
+2024-11-18 17:32:32 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (203be207634956c751a72d1853de4e28)] -> xpath: //i[@class='a-icon a-icon-logo']]
+2024-11-18 17:32:33 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 17:32:33 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:33 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 17:32:35 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:32:40 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:40 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:40 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:40 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:40 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:40 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:40 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:40 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:40 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:40 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:40 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:32:42 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-18 17:32:42 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1917a8ea1996128a7343dcf67785fcfa)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-18 17:32:43 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-18 17:32:43 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-18 17:32:43 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1917a8ea1996128a7343dcf67785fcfa)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-18 17:32:45 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-18 17:32:45 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1917a8ea1996128a7343dcf67785fcfa)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 17:32:45 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 17:32:45 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-18 17:32:45 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1917a8ea1996128a7343dcf67785fcfa)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 17:32:45 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 17:32:45 [main] INFO  WebDriverFactory - Entering email: 
+2024-11-18 17:32:46 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1917a8ea1996128a7343dcf67785fcfa)] -> xpath: //input[@id='ap_email']]
+2024-11-18 17:32:46 [main] INFO  BasePage - Entered email: 
+2024-11-18 17:32:46 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-18 17:32:46 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (1917a8ea1996128a7343dcf67785fcfa)] -> xpath: //input[@id='continue']]
+2024-11-18 17:32:46 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-18 17:32:46 [main] INFO  WebDriverFactory - Verifying if email required error message is displayed.
+2024-11-18 17:32:46 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (1917a8ea1996128a7343dcf67785fcfa)] -> xpath: //div[contains(text(),'Enter your email or mobile phone number')]]
+2024-11-18 17:32:48 [main] INFO  BasePage - Email required message displayed: true
+2024-11-18 17:32:49 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 17:32:49 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:49 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 17:32:52 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:32:55 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:55 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:55 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:55 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:55 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:55 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:55 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:55 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:32:55 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:32:55 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:32:55 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:32:57 [main] INFO  WebDriverFactory - Hovering over the Account & Lists menu
+2024-11-18 17:32:58 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9fb0850c791f510354ef2c0e25229ded)] -> xpath: //span[normalize-space()='Account & Lists']]
+2024-11-18 17:32:59 [main] INFO  BasePage - Hovered over 'Account & Lists' menu.
+2024-11-18 17:32:59 [main] INFO  WebDriverFactory - Verifying visibility of the Sign In button.
+2024-11-18 17:32:59 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9fb0850c791f510354ef2c0e25229ded)] -> xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]]
+2024-11-18 17:33:01 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='nav-flyout-ya-signin']//span[contains(text(), 'Sign in')]'
+2024-11-18 17:33:01 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9fb0850c791f510354ef2c0e25229ded)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 17:33:01 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 17:33:01 [main] INFO  BasePage - Clicked on 'Sign In' button.
+2024-11-18 17:33:02 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9fb0850c791f510354ef2c0e25229ded)] -> xpath: //h1[contains(text(), 'Sign in')]]
+2024-11-18 17:33:02 [main] INFO  BasePage - Sign-In page displayed: true
+2024-11-18 17:33:02 [main] INFO  WebDriverFactory - Entering email: shivangiguptadln@gmail.com
+2024-11-18 17:33:02 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9fb0850c791f510354ef2c0e25229ded)] -> xpath: //input[@id='ap_email']]
+2024-11-18 17:33:02 [main] INFO  BasePage - Entered email: shivangiguptadln@gmail.com
+2024-11-18 17:33:02 [main] INFO  WebDriverFactory - Clicking the Continue button.
+2024-11-18 17:33:04 [main] INFO  BasePage - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2024-11-18 17:33:04 [main] INFO  BasePage - Clicked 'Continue' button.
+2024-11-18 17:33:04 [main] INFO  WebDriverFactory - Entering password.
+2024-11-18 17:33:04 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9fb0850c791f510354ef2c0e25229ded)] -> xpath: //input[@id='ap_password']]
+2024-11-18 17:33:04 [main] INFO  BasePage - Entered password.
+2024-11-18 17:33:04 [main] INFO  WebDriverFactory - Clicking the Amazon Sign-In button.
+2024-11-18 17:33:04 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (9fb0850c791f510354ef2c0e25229ded)] -> id: signInSubmit]
+2024-11-18 17:33:04 [main] INFO  BasePage - Clicked 'Amazon Sign-In' button.
+2024-11-18 17:33:09 [main] INFO  WebDriverFactory - Verifying if password required error message is displayed.
+2024-11-18 17:33:09 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (9fb0850c791f510354ef2c0e25229ded)] -> xpath: //div[contains(text(),'Enter your password')]]
+2024-11-18 17:33:11 [main] INFO  BasePage - Password required message displayed: true
+2024-11-18 17:33:12 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 17:33:12 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:12 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 17:33:14 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:33:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:17 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:33:17 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:33:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:17 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:33:17 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:33:17 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:17 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:33:17 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:33:17 [main] INFO  WebDriverFactory - Navigating to the home page.
+2024-11-18 17:33:19 [main] INFO  WebDriverFactory - Searching for the item: laptop
+2024-11-18 17:33:20 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (df897a67154172504ab22ca12e602db1)] -> xpath: //input[@id='twotabsearchtextbox']]
+2024-11-18 17:33:24 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (df897a67154172504ab22ca12e602db1)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-18 17:33:25 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-18 17:33:25 [main] INFO  WebDriverFactory - Clicking the search button.
+2024-11-18 17:33:27 [main] INFO  WebDriverFactory - Verifying if search results page is displayed.
+2024-11-18 17:33:28 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (df897a67154172504ab22ca12e602db1)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-18 17:33:28 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-18 17:33:29 [main] INFO  WebDriverFactory - WebDriver closed.
+2024-11-18 17:33:29 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:29 [main] INFO  WebDriverFactory - Setting up WebDriver for browser: chrome
+2024-11-18 17:33:32 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:33:36 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:36 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:36 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:33:36 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:33:36 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:36 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:33:36 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:33:36 [main] INFO  ConfigReader - Configuration file loaded successfully.
+2024-11-18 17:33:36 [main] INFO  BasePage - WebDriver initialized with global wait time of 20 seconds.
+2024-11-18 17:33:36 [main] INFO  BasePage - Page elements initialized using PageFactory.
+2024-11-18 17:33:36 [main] INFO  WebDriverFactory - Navigating to URL: https://www.amazon.in/
+2024-11-18 17:33:38 [main] INFO  WebDriverFactory - Searching for the item: laptop
+2024-11-18 17:33:40 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (33006c1993845f532657e1b9746e3fca)] -> xpath: //input[@id='twotabsearchtextbox']]
+2024-11-18 17:33:44 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (33006c1993845f532657e1b9746e3fca)] -> xpath:  //h2[normalize-space()='Results']]
+2024-11-18 17:33:45 [main] INFO  BasePage - Search page loaded successfully.
+2024-11-18 17:33:45 [main] INFO  WebDriverFactory - Clicking the search button.
+2024-11-18 17:33:48 [main] INFO  WebDriverFactory - Clicking the Add to Cart button for the item.
+2024-11-18 17:33:48 [main] INFO  BasePage - Attempting to add item to cart.
+2024-11-18 17:33:49 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (33006c1993845f532657e1b9746e3fca)] -> id: a-autoid-1-announce]
+2024-11-18 17:33:51 [main] INFO  BasePage - Item added to cart.
+2024-11-18 17:33:51 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (33006c1993845f532657e1b9746e3fca)] -> xpath: //div[@class='a-changeover-inner']/strong[contains(text(), 'Item Added')]]
+2024-11-18 17:33:51 [main] INFO  BasePage - Item successfully added to cart.
+2024-11-18 17:33:51 [main] INFO  WebDriverFactory - Verifying pop-up message for item added.
+2024-11-18 17:33:51 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (33006c1993845f532657e1b9746e3fca)] -> xpath: //div[@class='a-changeover-inner']/strong[contains(text(), 'Item Added')]]
+2024-11-18 17:33:51 [main] INFO  BasePage - Item successfully added to cart.
+2024-11-18 17:33:51 [main] INFO  WebDriverFactory - Verifying if user is navigated to the cart page.
+2024-11-18 17:33:53 [main] INFO  BasePage - Clicked on element: [[ChromeDriver: chrome on windows (33006c1993845f532657e1b9746e3fca)] -> xpath: //a[@id='nav-cart']]
+2024-11-18 17:33:53 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (33006c1993845f532657e1b9746e3fca)] -> xpath: //h2[@class='a-size-extra-large a-text-normal']]
+2024-11-18 17:33:53 [main] INFO  BasePage - Navigated to Cart page successfully.
+2024-11-18 17:33:53 [main] INFO  WebDriverFactory - Verifying if the item <itemName> is displayed in the cart.
+2024-11-18 17:33:53 [main] INFO  BasePage - Element is visible: [[ChromeDriver: chrome on windows (33006c1993845f532657e1b9746e3fca)] -> xpath: //span[@class='a-truncate-cut']]
+2024-11-18 17:33:53 [main] INFO  BasePage - The item '<itemName>' is present in the cart.
+2024-11-18 17:33:54 [main] INFO  WebDriverFactory - WebDriver closed.

@@ -7,14 +7,14 @@
 	<groupId>com.nagarro</groupId>
 	<artifactId>CucumberAssginment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
 	<name>CucumberAssginment</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.release>17</maven.compiler.release>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
 	</properties>
 
 	<dependencyManagement>
@@ -78,7 +78,6 @@
 			<scope>test</scope>
 		</dependency>
 
-
 		<!-- https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting -->
 		<dependency>
 			<groupId>net.masterthought</groupId>
@@ -107,7 +106,6 @@
 			<version>2.24.0</version>
 		</dependency>
 
-
 		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
@@ -126,27 +124,35 @@
 	</dependencies>
 
 	<build>
-		<pluginManagement><!-- lock down plugins versions to avoid using Maven 
-				defaults (may be moved to parent pom) -->
+		<pluginManagement>
 			<plugins>
 				<!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
 				<plugin>
 					<artifactId>maven-clean-plugin</artifactId>
 					<version>3.4.0</version>
 				</plugin>
+
 				<!-- default lifecycle, jar packaging: see https://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_jar_packaging -->
 				<plugin>
 					<artifactId>maven-resources-plugin</artifactId>
 					<version>3.3.1</version>
 				</plugin>
+
 				<plugin>
 					<artifactId>maven-compiler-plugin</artifactId>
-					<version>3.13.0</version>
+					<version>3.10.0</version>
 				</plugin>
+
 				<plugin>
 					<artifactId>maven-surefire-plugin</artifactId>
 					<version>3.3.0</version>
+					<configuration>
+						<includes>
+							<include>**/RunCucumberTest.java</include>
+						</includes>
+					</configuration>
 				</plugin>
+
 				<plugin>
 					<artifactId>maven-jar-plugin</artifactId>
 					<version>3.4.2</version>
@@ -159,6 +165,7 @@
 					<artifactId>maven-deploy-plugin</artifactId>
 					<version>3.1.2</version>
 				</plugin>
+
 				<!-- site lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#site_Lifecycle -->
 				<plugin>
 					<artifactId>maven-site-plugin</artifactId>
@@ -180,20 +187,9 @@
 							<goals>
 								<goal>generate</goal>
 							</goals>
-							<configuration>
-								<projectName>cucumberTraining</projectName>
-								<outputDirectory>
-									${project.build.directory}/Reports</outputDirectory>
-								<inputDirectory>
-									${project.build.directory}/cucumber-reports</inputDirectory>
-								<jsonFiles>
-									<param>**/*.json</param>
-								</jsonFiles>
-							</configuration>
 						</execution>
 					</executions>
 				</plugin>
-
 			</plugins>
 		</pluginManagement>
 	</build>

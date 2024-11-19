@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
+import java.time.Duration;
 
 public class HomePage extends BasePage {
 

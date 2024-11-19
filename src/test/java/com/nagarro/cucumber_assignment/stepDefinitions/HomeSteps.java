@@ -67,12 +67,19 @@ public class HomeSteps {
 		Assert.assertTrue(isVisible, "The hamburger menu is not visible.");
 	}
 
-	// Step to navigate to Customer Service page
-	@When("I click on customer service link")
-	public void i_click_on_customer_service_link() {
-		logger.info("Clicking on the customer service link.");
-		homePage.navigateToCustomerService();
-	}
+	// // Step to navigate to Customer Service page
+	// @When("I click on customer service link")
+	// public void i_click_on_customer_service_link() {
+	// 	logger.info("Clicking on the customer service link.");
+	// 	homePage.navigateToCustomerService();
+	// }
+	 // Step to navigate to Customer Service page
+    @When("I click on customer service link")
+    public void i_click_on_customer_service_link() {
+        logger.info("Clicking on the customer service link.");
+        homePage.closePopUpIfVisible(); // Close any pop-ups or overlays
+        homePage.navigateToCustomerService(); // Attempt to navigate
+    }
 
 	@Then("I should be navigated to the Customer Service Page")
 	public void i_should_be_navigate_to_the_customer_service_page() {

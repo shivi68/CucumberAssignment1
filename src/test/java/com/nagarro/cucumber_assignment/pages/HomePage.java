@@ -14,7 +14,7 @@ public class HomePage extends BasePage {
 	@FindBy(id = "nav-hamburger-menu")
 	private WebElement allMenu;
 
-	@FindBy(xpath = "//a[text() = 'Customer Service']")
+	@FindBy(xpath = "//a[normalize-space(text()) = 'Customer Service']")
 	private WebElement customerServiceLink;
 
 	@FindBy(xpath = "//h1[contains(text(), 'Hello. What can we help you with?')]")

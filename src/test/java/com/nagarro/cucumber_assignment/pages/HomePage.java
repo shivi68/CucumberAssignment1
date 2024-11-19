@@ -72,21 +72,20 @@ public class HomePage extends BasePage {
         return isDisplayed;
     }
 
-    // Method to close a pop-up if it's visible
     public void closePopUpIfVisible() {
-        try {
-            // Wait for the close button to be visible (for a pop-up)
-            WebDriverWait wait = new WebDriverWait(driver, 10); // wait for up to 10 seconds
-            WebElement closeButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".close, .dismiss, .modal-close")));
+    try {
+        // Correct way to initialize WebDriverWait with Duration
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10)); // Use Duration here
+        WebElement closeButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".close, .dismiss, .modal-close")));
 
-            // If the close button is found and visible, click it to close the pop-up
-            if (closeButton.isDisplayed()) {
-                closeButton.click();
-                logger.info("Closed pop-up.");
-            }
-        } catch (NoSuchElementException | TimeoutException e) {
-            // If the close button or pop-up is not found, it's fine, just log it
-            logger.info("No pop-up found or pop-up is not visible.");
+        // If the close button is found and visible, click it to close the pop-up
+        if (closeButton.isDisplayed()) {
+            closeButton.click();
+            logger.info("Closed pop-up.");
         }
+    } catch (NoSuchElementException | TimeoutException e) {
+        // If the close button or pop-up is not found, it's fine, just log it
+        logger.info("No pop-up found or pop-up is not visible.");
     }
+}
 }
